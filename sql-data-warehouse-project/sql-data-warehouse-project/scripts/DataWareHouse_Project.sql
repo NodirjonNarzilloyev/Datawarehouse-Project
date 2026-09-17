@@ -129,7 +129,8 @@ GO
 /*====================================================================================
 	1.Creating Stored Procedure  : bronze.load_silver
 	2.Loadind Data Using Bulk Insert : from CRM and ERP Sources (.csv)
-	3.Handling Bulk Insert Errors During Loadind Data From from 'CRM and ERP' to 'bronze.load_silver'
+	3.Handling Bulk Insert Errors During---->>>>>
+	---->>>>> Loadind Data From from 'CRM and ERP' to 'bronze.load_silver'
 ======================================================================================*/
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
